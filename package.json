@@ -6,6 +6,7 @@
     "repository": "git@github.com:steveafrost/joyride-backend.git",
     "author": "Steve Frost <hello@steveafrost.com>",
     "license": "MIT",
+    "proxy": "http://localhost:8080",
     "scripts": {
         "lint": "eslint ./",
         "test": "jest -i --verbose --coverage --runInBand",
